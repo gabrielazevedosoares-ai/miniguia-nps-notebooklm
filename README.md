@@ -10,9 +10,9 @@ Caderno temático sobre Net Promoter Score (NPS) construído com NotebookLM — 
 
 O assunto escolhido para este Caderno Temático foi o **Net Promoter Score (NPS)**, metodologia criada por Frederick Reichheld em 2003 (artigo *"The One Number You Need to Grow"*, publicado na Harvard Business Review) para medir a satisfação e a lealdade de clientes através de uma única pergunta-chave: *"De 0 a 10, o quanto você recomendaria esta empresa/produto/serviço a um amigo ou colega?"*
 
-Escolhi o tema por sua relevância direta para a área de **Gestão de Serviços e Atendimento ao Cliente**, disciplina que estou cursando na Tecnologia em Processos Gerenciais (UFF), e por ser uma métrica amplamente cobrada em contextos de gestão da qualidade, CRM e experiência do cliente — conteúdo que também aparece em provas e em entrevistas de estágio na área administrativa.
+Escolhi o tema por sua relevância direta para a área de **Gestão de Serviços e Atendimento ao Cliente**, disciplina que curseinesse semestre no meu curso de Processos Gerenciais (UFF), e por ser uma métrica amplamente cobrada em contextos de gestão da qualidade, CRM e experiência do cliente — conteúdo que também aparece em provas e em entrevistas de estágio na área administrativa.
 
-### Objetivos de estudo
+ Objetivos de estudo
 
 - Entender a origem, o conceito e a lógica por trás do NPS.
 - Dominar o cálculo do indicador (fórmula, classificação de promotores/neutros/detratores).
