@@ -33,9 +33,6 @@ Fontes selecionadas e carregadas no NotebookLM (mescla de texto acadêmico, arti
 | 2 | ALONSO, Roberto. **"Net Promoter Score (NPS): o que é, como aplicar e estudos de caso"**. Blog FIA Business School, 2024. | Artigo de blog | Guia prático completo: como calcular, aplicar, ferramentas (Google Forms, SurveyMonkey etc.) e exemplos reais (Tesla, Nubank, Natura...) |
 | 3 | Transcrição de vídeo — **"Você sabe o que é NPS?"**, Mateus Pedorim (SEOS Force) | Transcrição de vídeo | Explicação didática do conceito, fórmula e faixas de classificação (excelente/muito bom/razoável/ruim) |
 | 4 | SANTOS, C. H.; GONÇALVES, A. T. P. **"Avaliação da qualidade do serviço prestado pelo aplicativo de transporte da Uber: uma aplicação da escala SERVQUAL"**. Journal of Management & Technology, v.23, n.2, 2023. | Artigo acadêmico (PDF) | Fonte complementar: outro modelo de avaliação de qualidade em serviços (SERVQUAL, GAP = Percepção − Expectativa), útil para comparar com o NPS |
-
-> 💡 No README final, troque a coluna "Fonte" por links reais (DOI, URL do blog, link do vídeo no YouTube) sempre que a fonte for pública. Os PDFs acadêmicos, se você não tiver o link direto do periódico, pode simplesmente citar a referência completa (como acima) sem precisar hospedar o PDF no repositório — isso evita problemas de direitos autorais.
-
 ---
 
 ## 🧪 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
@@ -206,18 +203,5 @@ para cada um, sugira uma forma prática de evitá-lo.
 Formato: lista "Erro → Como evitar".
 ```
 
-> 💡 Dica de uso: quanto mais específico o **contexto** (ex: "prova amanhã", "vou apresentar pra diretoria", "nunca vi isso antes"), melhor o NotebookLM calibra o nível de profundidade e o tom da resposta.
-
----
-
-## 🗂️ Estrutura sugerida do repositório
-
-```
-miniguia-estudos-nps/
-├── README.md          ← este arquivo (contém todo o conteúdo do desafio)
-└── fontes/             ← opcional: PDFs ou links das fontes usadas (se puder disponibilizar)
-```
-
----
 
 *Projeto desenvolvido como parte do Desafio de Projeto da DIO — "Explorando a IA como ferramenta de aprendizagem ativa com NotebookLM".*
